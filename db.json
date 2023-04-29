@@ -9,7 +9,7 @@
     {
       "text": "CSS Test",
       "day": "Monday",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     },
     {
